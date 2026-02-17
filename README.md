@@ -1,8 +1,11 @@
 # Práctica 1 - IPC1
 
 ## Descripción
-Juego tipo Pac-Man desarrollado en Java.  
-El jugador debe recolectar premios evitando fantasmas y paredes, utilizando un sistema de tablero configurable.
+Esta práctica consiste en la realización de un juego en consola, utilizando el lenguaje de
+programación JAVA. Se trata de una versión simple del conocido videojuego PAC MAN, con
+una interfaz simple pero amigable.
+El juego se desarrollará en un tablero de tamaño variable, donde el jugador (PACMAN)
+deberá moverse para recolectar pre
 
 
 ## ¿Cómo ejecutar el programa?
