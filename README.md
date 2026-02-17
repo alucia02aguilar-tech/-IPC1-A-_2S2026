@@ -47,6 +47,8 @@ Cuando se muestre el tablero:
 - Contar desde 0 en adelante para elegir la posición.
 - Fila: contar de arriba hacia abajo.
 - Columna: contar de izquierda hacia derecha.
+
+
 NOTA: No puedes elegir una casilla donde haya una pared "X".
 
 
